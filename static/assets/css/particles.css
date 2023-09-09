@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 .classic {
-	background-image: url("space-city.gif")
+	background-image: url("circles.avif")
 	background-size: cover;
     background-position: center;
 }
@@ -15,7 +15,7 @@
 }
 
 .ocean {
-background-image: url("ocean.gif")
+background-image: url("white.jpg")
 background-size: cover;
     background-position: center;
 }
