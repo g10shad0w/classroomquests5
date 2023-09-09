@@ -2,6 +2,7 @@
 
 .classic {
 	background-image: url("space-city.gif")
+	 background-repeat: no-repeat;
 }
 
 .header {
@@ -14,7 +15,7 @@
 
 .ocean {
 background-image: url("ocean.gif")
-
+ background-repeat: no-repeat;
 }
 
 .center {
