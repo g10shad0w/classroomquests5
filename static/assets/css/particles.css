@@ -16,7 +16,8 @@
 
 .ocean {
 background-image: url("ocean.gif")
- background-repeat: no-repeat;
+background-size: cover;
+    background-position: center;
 }
 
 .center {
