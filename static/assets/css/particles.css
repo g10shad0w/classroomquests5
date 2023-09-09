@@ -2,7 +2,8 @@
 
 .classic {
 	background-image: url("space-city.gif")
-	 background-repeat: no-repeat;
+	background-size: cover;
+    background-position: center;
 }
 
 .header {
