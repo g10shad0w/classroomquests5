@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
 * {
   box-sizing: border-box;
@@ -9,9 +9,7 @@
 body {
   margin: 0;
   background-color: #1db1f5;
-  @font-face {
-font-family: paybAck;
-src: url(paybAck.ttf);
+  font-family: 'Poppins', sans-serif;
 }
 
 }
