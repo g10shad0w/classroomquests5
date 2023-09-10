@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
 body,
 h1,
@@ -7,7 +7,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Inter", sans-serif;
+  font-family: 'Poppins', sans-serif;
   text-align: center;
   font-weight: 100;
   color: #fff;
