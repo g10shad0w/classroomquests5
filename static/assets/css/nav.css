@@ -9,7 +9,11 @@
 body {
   margin: 0;
   background-color: #1db1f5;
-  font-family: "Inter", sans-serif;
+  @font-face {
+font-family: paybAck;
+src: url(paybAck.ttf);
+}
+
 }
 
 .header2 {
