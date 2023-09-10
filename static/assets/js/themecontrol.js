@@ -5,11 +5,9 @@ document.addEventListener("DOMContentLoaded", function (event) {
   } else if (localStorage.getItem("Ocean") === "on") {
     document.body.style.backgroundImage = "url('ocean.gif')";
     document.getElementById("Themes").value = "Ocean";
-  } else if (localStorage.getItem("Midnight Blue") === "on") {
-    document.body.style.backgroundColor = "#000";
-    document.body.style.color = "#ffffff";
-    document.body.style.setProperty("--bg-c", "#000");
-    document.getElementById("Themes").value = "Midnight Blue";
+  } else if (localStorage.getItem("Dark") === "on") {
+     document.body.style.backgroundImage = "url('circles.avif')";
+    document.getElementById("Themes").value = "Dark";
   } else if (localStorage.getItem("Light") === "on") {
     document.body.style.backgroundImage = "url('white.jpeg')";
     document.getElementById("Themes").value = "Light";
