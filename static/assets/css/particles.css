@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 .classic {
-	background-image: url("circles.avif")
+	background-image = url("space-city.gif")
+	overflow: hidden;
+	background-repeat: no-repeat;
 	background-size: cover;
-    background-position: center;
 }
 
 .header {
@@ -15,9 +16,10 @@
 }
 
 .ocean {
-background-image: url("white.jpg")
-background-size: cover;
-    background-position: center;
+	background-image = url("white.jpeg")
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .center {
